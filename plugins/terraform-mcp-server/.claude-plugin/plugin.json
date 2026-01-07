@@ -1,0 +1,8 @@
+{
+  "name": "terraform-mcp-server",
+  "description": "Terraform development on AWS with best practices, security scanning via Checkov, and AWS provider documentation",
+  "author": {
+    "name": "AWS Labs",
+    "email": "aws-mcp@amazon.com"
+  }
+}

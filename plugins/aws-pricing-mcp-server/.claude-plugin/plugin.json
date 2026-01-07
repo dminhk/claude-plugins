@@ -1,0 +1,8 @@
+{
+  "name": "aws-pricing-mcp-server",
+  "description": "Get real-time AWS pricing data, cost analysis, and optimization recommendations using natural language queries",
+  "author": {
+    "name": "AWS Labs",
+    "email": "aws-mcp@amazon.com"
+  }
+}

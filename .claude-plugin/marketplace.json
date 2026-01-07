@@ -17,6 +17,83 @@
       "source": "./plugins/aws-knowledge-mcp-server",
       "category": "development",
       "homepage": "https://awslabs.github.io/mcp/servers/aws-knowledge-mcp-server"
+    },
+    {
+      "name": "aws-diagram-mcp-server",
+      "description": "Create AWS architecture diagrams, sequence diagrams, flow charts, and class diagrams using Python diagrams DSL",
+      "author": {
+        "name": "AWS Labs",
+        "email": "aws-mcp@amazon.com"
+      },
+      "source": "./plugins/aws-diagram-mcp-server",
+      "category": "development",
+      "homepage": "https://awslabs.github.io/mcp/servers/aws-diagram-mcp-server"
+    },
+    {
+      "name": "aws-pricing-mcp-server",
+      "description": "Get real-time AWS pricing data, cost analysis, and optimization recommendations using natural language queries",
+      "author": {
+        "name": "AWS Labs",
+        "email": "aws-mcp@amazon.com"
+      },
+      "source": "./plugins/aws-pricing-mcp-server",
+      "category": "development",
+      "homepage": "https://awslabs.github.io/mcp/servers/aws-pricing-mcp-server"
+    },
+    {
+      "name": "aws-api-mcp-server",
+      "description": "Execute and suggest AWS CLI commands with validation, security controls, and hallucination protection",
+      "author": {
+        "name": "AWS Labs",
+        "email": "aws-mcp@amazon.com"
+      },
+      "source": "./plugins/aws-api-mcp-server",
+      "category": "development",
+      "homepage": "https://awslabs.github.io/mcp/servers/aws-api-mcp-server"
+    },
+    {
+      "name": "amazon-bedrock-agentcore-mcp-server",
+      "description": "Search and access Amazon Bedrock AgentCore documentation, APIs, tutorials, and best practices",
+      "author": {
+        "name": "AWS Labs",
+        "email": "aws-mcp@amazon.com"
+      },
+      "source": "./plugins/amazon-bedrock-agentcore-mcp-server",
+      "category": "development",
+      "homepage": "https://awslabs.github.io/mcp/servers/amazon-bedrock-agentcore-mcp-server"
+    },
+    {
+      "name": "terraform-mcp-server",
+      "description": "Terraform development on AWS with best practices, security scanning via Checkov, and AWS provider documentation",
+      "author": {
+        "name": "AWS Labs",
+        "email": "aws-mcp@amazon.com"
+      },
+      "source": "./plugins/terraform-mcp-server",
+      "category": "development",
+      "homepage": "https://awslabs.github.io/mcp/servers/terraform-mcp-server"
+    },
+    {
+      "name": "cdk-mcp-server",
+      "description": "AWS CDK best practices, AWS Solutions Constructs, GenAI CDK patterns, and CDK Nag security validation",
+      "author": {
+        "name": "AWS Labs",
+        "email": "aws-mcp@amazon.com"
+      },
+      "source": "./plugins/cdk-mcp-server",
+      "category": "development",
+      "homepage": "https://awslabs.github.io/mcp/servers/cdk-mcp-server"
+    },
+    {
+      "name": "tavily-mcp-server",
+      "description": "Real-time web search and intelligent content extraction powered by Tavily",
+      "author": {
+        "name": "Tavily",
+        "email": "support@tavily.com"
+      },
+      "source": "./plugins/tavily-mcp-server",
+      "category": "search",
+      "homepage": "https://docs.tavily.com/documentation/mcp"
     }
   ]
 }

@@ -1,0 +1,8 @@
+{
+  "name": "amazon-bedrock-agentcore-mcp-server",
+  "description": "Search and access Amazon Bedrock AgentCore documentation, APIs, tutorials, and best practices",
+  "author": {
+    "name": "AWS Labs",
+    "email": "aws-mcp@amazon.com"
+  }
+}

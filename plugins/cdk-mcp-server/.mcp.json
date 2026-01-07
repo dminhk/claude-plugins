@@ -1,0 +1,9 @@
+{
+  "cdk-mcp-server": {
+    "command": "uvx",
+    "args": ["awslabs.cdk-mcp-server@latest"],
+    "env": {
+      "FASTMCP_LOG_LEVEL": "ERROR"
+    }
+  }
+}

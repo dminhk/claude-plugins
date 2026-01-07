@@ -1,0 +1,8 @@
+{
+  "name": "cdk-mcp-server",
+  "description": "AWS CDK best practices, AWS Solutions Constructs, GenAI CDK patterns, and CDK Nag security validation",
+  "author": {
+    "name": "AWS Labs",
+    "email": "aws-mcp@amazon.com"
+  }
+}

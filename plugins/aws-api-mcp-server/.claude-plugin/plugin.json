@@ -1,0 +1,8 @@
+{
+  "name": "aws-api-mcp-server",
+  "description": "Execute and suggest AWS CLI commands with validation, security controls, and hallucination protection",
+  "author": {
+    "name": "AWS Labs",
+    "email": "aws-mcp@amazon.com"
+  }
+}

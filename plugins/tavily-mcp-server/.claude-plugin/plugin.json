@@ -1,0 +1,8 @@
+{
+  "name": "tavily-mcp-server",
+  "description": "Real-time web search and intelligent content extraction powered by Tavily",
+  "author": {
+    "name": "Tavily",
+    "email": "support@tavily.com"
+  }
+}

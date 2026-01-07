@@ -1,0 +1,8 @@
+{
+  "name": "aws-diagram-mcp-server",
+  "description": "Create AWS architecture diagrams, sequence diagrams, flow charts, and class diagrams using Python diagrams DSL",
+  "author": {
+    "name": "AWS Labs",
+    "email": "aws-mcp@amazon.com"
+  }
+}
