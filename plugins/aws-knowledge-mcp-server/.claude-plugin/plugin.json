@@ -1,0 +1,8 @@
+{
+  "name": "aws-knowledge-mcp-server",
+  "description": "Access up-to-date AWS documentation, code samples, API references, and regional availability data",
+  "author": {
+    "name": "AWS Labs",
+    "email": "aws-mcp@amazon.com"
+  }
+}
