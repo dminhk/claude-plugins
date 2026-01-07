@@ -1,6 +1,6 @@
 {
   "$schema": "https://anthropic.com/claude-code/marketplace.schema.json",
-  "name": "claude-plugins",
+  "name": "dminhk-plugins",
   "description": "A curated directory of high-quality plugins for Claude Code",
   "owner": {
     "name": "David Min",
